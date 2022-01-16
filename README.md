@@ -1,2 +1,5 @@
 # kda-first-projet
-mon premier
+mon premier projet avec github 
+##technologies 
+*html5
+*css3
